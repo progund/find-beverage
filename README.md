@@ -6,6 +6,8 @@
 
 [Information about the API](https://www.systembolaget.se/api/)
 
+### API links
+
 [Asortment](https://www.systembolaget.se/api/assortment/products/xml)
 
 [Shops](https://www.systembolaget.se/api/assortment/stores/xml)
