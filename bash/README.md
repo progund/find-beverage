@@ -30,4 +30,17 @@ New features:
 
 # v4
 
+New features:
+* if file is older them 60 mins (1 hour) download is done
+
+## Problems
+* would be nice to see sorted products
+* would be nice to see price and category as well
+
+# v5
+
+New features:
+* sorted list of products (only uiques)
+* price, nr, alocohol printed
+
 
