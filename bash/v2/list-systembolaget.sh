@@ -11,7 +11,7 @@ mkdir -p $FILE_DIR
 #
 #
 #
-curl -s $PRODUCTS_URL $PRODUCTS_FILE
+curl -s $PRODUCTS_URL -o $PRODUCTS_FILE
 
 xmllint --xpath //Namn ${PRODUCTS_FILE}  | sed -e 's,</Namn>,\n,g' -e 's,<Namn>,,g'
 
